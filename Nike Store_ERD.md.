@@ -1,0 +1,17 @@
+##_[Manage Operation_]
+*Sales, Discounts, Promotions*
+##*[PRODUCT*](_NIKE_) 
+(Running shoes, Basketball shoes, Walking shoes, and Casual shoes) (PK)
+(_Name_)
+(_Color_)
+
+##*[Customers*]
+( Young Teens and Adults)(PK)
+##[*Sales*]
+( All races and all classes buy _nike_)(Athletes!) (Trainers!) (PK)
+##*[Inventory*]
+(Trends, Popularity, High Sales, and Seasons) (PK)
+
+All of my entities are related to runninig a successful business. Sales, Product, customers,
+and Inventory are what consist of running a business and profiting. Nike is very successful. All 
+of these categories will help grow sales and also keep Nike in business.
